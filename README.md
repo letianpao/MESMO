@@ -5,7 +5,7 @@ To run the code, you should get PlatEMO from https://github.com/BIMK/PlatEMO
 
 The GP-stuff package is supplied in the .zip file. Or you could get the latest version of GP-stuff from: https://github.com/gpstuff-dev/gpstuff
 
-I am not responsible of the correctness of the code. But I am glad to fix the bugs if you report it. 
+I am not responsible for the correctness of the code. But I am glad to fix the bugs if you report it. 
 
 Please do not hesitate to contact me if you have any questions on the implementation. Email:1554748356@qq.com
 
