@@ -5,7 +5,7 @@ To run the code, you should get PlatEMO from https://github.com/BIMK/PlatEMO
 
 The GP-stuff package is supplied in the .zip file. Or you could get the latest version of GP-stuff from: https://github.com/gpstuff-dev/gpstuff
 
-Part of the codes are taken from https://github.com/zi-w/Max-value-Entropy-Search, which implement the Max-value Entropy Search for Efficient Bayesian Optimization [2].
+Part of the codes are taken from https://github.com/zi-w/Max-value-Entropy-Search, which implements the Max-value Entropy Search for Efficient Bayesian Optimization [2].
 
 I am not responsible for the correctness of the code. But I am glad to fix the bugs if you report it. 
 
